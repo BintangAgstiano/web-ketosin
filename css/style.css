@@ -91,7 +91,7 @@
     opacity: 0;
     position: absolute;
     left: 0;
-    top: -20px;
+    top: -10px;
     transition: 1s;
 
 }
@@ -162,7 +162,9 @@
     z-index: -1;
     opacity: 0;
     transition: 1.5s;
-    margin-left: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 100px;  
 }
 
 .text-logo.active {
@@ -3375,7 +3377,7 @@ span {
 
     .chat-logo {
         scale: .9;
-        top: -6px;
+        top: -10px;
     }
 
     .text-logo {
