@@ -319,7 +319,7 @@
     height: 700px;
     background-color: rgba(255, 255, 255, 0);
     margin: auto;
-    padding-top: 140px;
+    padding-top: 50px;
     display: flex;
 position:relative;
     overflow-x: hidden;
@@ -3457,7 +3457,7 @@ span {
         flex-direction: column;
         height: max-content;
         background-image: url(/assets/bg2.jpg);
-        padding-top: 100px;
+        padding-top: 50px;
         padding-bottom: 40px;
     }
 
